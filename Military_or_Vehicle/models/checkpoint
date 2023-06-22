@@ -1,0 +1,2 @@
+model_checkpoint_path: "military_epoch15"
+all_model_checkpoint_paths: "military_epoch15"
