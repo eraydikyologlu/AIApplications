@@ -1,4 +1,4 @@
-# MyProjects
+# Projects
 # 💫 About Me:
 I'm currently working on Deep Learning Algorithms<br>
 
